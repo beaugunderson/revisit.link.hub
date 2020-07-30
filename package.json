@@ -16,7 +16,7 @@
     "hapi": "~6.4.0",
     "imageview": "~2.0.0",
     "jade": "~1.5.0",
-    "jquery": "~2.1.1",
+    "jquery": "~3.5.1",
     "meatspace-publico": "~1.0.1",
     "nconf": "~0.6.9",
     "request": "~2.40.0",
